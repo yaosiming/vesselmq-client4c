@@ -44,3 +44,6 @@ Development/Deployment Guide
    sudo make install
 
 5. Create /dianyi/log folder, make sure it's writable to current user.
+
+
+6. lalall
