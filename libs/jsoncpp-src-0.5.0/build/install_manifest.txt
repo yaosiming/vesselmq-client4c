@@ -1,0 +1,9 @@
+/usr/lib/libjsoncpp.so
+/usr/include/json/autolink.h
+/usr/include/json/config.h
+/usr/include/json/reader.h
+/usr/include/json/json.h
+/usr/include/json/forwards.h
+/usr/include/json/features.h
+/usr/include/json/writer.h
+/usr/include/json/value.h

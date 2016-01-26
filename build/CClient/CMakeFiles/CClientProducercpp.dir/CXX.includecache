@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/CDefaultMQProducerWapper.h
+SendResult.h
+-
+Struct_SendResult.h
+../include/Struct_SendResult.h
+
+../include/MessageQueue.h
+string
+-
+string.h
+-
+RocketMQClient.h
+../include/RocketMQClient.h
+
+../include/RocketMQClient.h
+
+../include/SendResult.h
+MessageQueue.h
+../include/MessageQueue.h
+RocketMQClient.h
+../include/RocketMQClient.h
+
+../include/Struct_SendResult.h
+MessageQueue.h
+-
+SendResult.h
+-
+
+/home/yaosir/space/vesselmq-client4c/CClient/CClientProducer.cpp
+iostream
+-
+CDefaultMQProducerWapper.h
+/home/yaosir/space/vesselmq-client4c/CClient/CDefaultMQProducerWapper.h
+

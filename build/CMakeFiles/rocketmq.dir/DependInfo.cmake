@@ -1,0 +1,96 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/yaosir/space/vesselmq-client4c/src/ClientConfig.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/ClientConfig.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/ClientRemotingProcessor.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/ClientRemotingProcessor.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/Logger.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/Logger.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/MQAdminImpl.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/MQAdminImpl.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/MQClientAPIImpl.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/MQClientAPIImpl.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/MQClientFactory.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/MQClientFactory.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/MQClientManager.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/MQClientManager.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/common/MQVersion.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/common/MQVersion.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/common/MessageSysFlag.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/common/MessageSysFlag.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/common/MixAll.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/common/MixAll.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/common/PermName.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/common/PermName.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/common/PullSysFlag.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/common/PullSysFlag.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/common/SendResult.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/common/SendResult.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/common/ServiceThread.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/common/ServiceThread.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/common/TopicConfig.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/common/TopicConfig.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/common/Validators.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/common/Validators.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/common/VirtualEnvUtil.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/common/VirtualEnvUtil.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/ConsumeMessageConcurrentlyService.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/ConsumeMessageConcurrentlyService.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/ConsumeMessageOrderlyService.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/ConsumeMessageOrderlyService.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/ConsumeType.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/ConsumeType.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/ConsumerInvokeCallback.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/ConsumerInvokeCallback.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/DefaultMQPullConsumer.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/DefaultMQPullConsumer.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/DefaultMQPullConsumerImpl.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/DefaultMQPullConsumerImpl.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/DefaultMQPushConsumer.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/DefaultMQPushConsumer.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/DefaultMQPushConsumerImpl.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/DefaultMQPushConsumerImpl.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/LocalFileOffsetStore.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/LocalFileOffsetStore.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/ProcessQueue.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/ProcessQueue.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/PullAPIWrapper.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/PullAPIWrapper.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/PullMessageService.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/PullMessageService.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/PullRequest.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/PullRequest.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/RebalanceImpl.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/RebalanceImpl.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/RebalancePullImpl.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/RebalancePullImpl.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/RebalancePushImpl.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/RebalancePushImpl.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/RebalanceService.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/RebalanceService.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/RemoteBrokerOffsetStore.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/RemoteBrokerOffsetStore.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/consumer/SubscriptionData.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/consumer/SubscriptionData.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/dllmain.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/dllmain.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/kpr/AtomicValue.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/kpr/AtomicValue.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/kpr/Condition.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/kpr/Condition.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/kpr/KPRUtil.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/kpr/KPRUtil.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/kpr/Monitor.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/kpr/Monitor.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/kpr/Mutex.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/kpr/Mutex.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/kpr/RefCount.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/kpr/RefCount.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/kpr/Semaphore.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/kpr/Semaphore.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/kpr/Thread.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/kpr/Thread.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/kpr/ThreadLocal.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/kpr/ThreadLocal.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/kpr/ThreadPool.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/kpr/ThreadPool.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/kpr/TimerTaskManager.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/kpr/TimerTaskManager.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/kpr/TimerThread.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/kpr/TimerThread.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/message/Message.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/message/Message.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/message/MessageDecoder.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/message/MessageDecoder.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/message/MessageExt.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/message/MessageExt.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/message/MessageQueue.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/message/MessageQueue.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/producer/DefaultMQProducer.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/producer/DefaultMQProducer.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/producer/DefaultMQProducerImpl.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/producer/DefaultMQProducerImpl.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/producer/ProducerInvokeCallback.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/producer/ProducerInvokeCallback.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/protocol/CommandCustomHeader.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/protocol/CommandCustomHeader.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/protocol/HeartbeatData.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/protocol/HeartbeatData.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/protocol/LockBatchBody.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/protocol/LockBatchBody.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/protocol/RemotingCommand.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/protocol/RemotingCommand.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/transport/ResponseFuture.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/transport/ResponseFuture.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/transport/SocketUtil.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/transport/SocketUtil.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/transport/TcpRemotingClient.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/transport/TcpRemotingClient.cpp.o"
+  "/home/yaosir/space/vesselmq-client4c/src/transport/TcpTransport.cpp" "/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir/src/transport/TcpTransport.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/yaosir/space/vesselmq-client4c/build/libs/jsoncpp-src-0.5.0/CMakeFiles/jsoncpp.dir/DependInfo.cmake"
+  )
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "../libs/jsoncpp/include"
+  "../libs/zlib/include"
+  "../include"
+  "../src"
+  "../src/common"
+  "../src/consumer"
+  "../src/kpr"
+  "../src/message"
+  "../src/producer"
+  "../src/protocol"
+  "../src/transport"
+  "../libs/spdlog/include"
+  )
+set(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+set(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+set(CMAKE_ASM_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

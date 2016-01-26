@@ -1,0 +1,1 @@
+/usr/bin/c++    -m64 -std=c++11 -m64 -std=c++11   CMakeFiles/push_consumer.dir/PushConsumer.cpp.o  -o push_consumer -rdynamic -lcurl -lz ../../librocketmq.so -lpthread -lz ../../libs/jsoncpp-src-0.5.0/lib/libjsoncpp.so -lcurl -lpthread -Wl,-rpath,/home/yaosir/space/vesselmq-client4c/build:/home/yaosir/space/vesselmq-client4c/build/libs/jsoncpp-src-0.5.0/lib 

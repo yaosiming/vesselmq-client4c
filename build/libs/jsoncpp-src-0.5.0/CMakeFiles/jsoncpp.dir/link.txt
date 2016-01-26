@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -m64 -std=c++11 -m64 -std=c++11 -fPIC  -shared -Wl,-soname,libjsoncpp.so -o lib/libjsoncpp.so CMakeFiles/jsoncpp.dir/src/lib_json/json_reader.cpp.o CMakeFiles/jsoncpp.dir/src/lib_json/json_value.cpp.o CMakeFiles/jsoncpp.dir/src/lib_json/json_writer.cpp.o 

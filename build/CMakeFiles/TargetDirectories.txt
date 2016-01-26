@@ -1,0 +1,10 @@
+/home/yaosir/space/vesselmq-client4c/build/CMakeFiles/rocketmq.dir
+/home/yaosir/space/vesselmq-client4c/build/example/simple/CMakeFiles/pull_consumer.dir
+/home/yaosir/space/vesselmq-client4c/build/example/simple/CMakeFiles/async_producer.dir
+/home/yaosir/space/vesselmq-client4c/build/CClient/CProducer/CMakeFiles/CDefaultMQProducerWapper.dir
+/home/yaosir/space/vesselmq-client4c/build/example/simple/CMakeFiles/push_consumer.dir
+/home/yaosir/space/vesselmq-client4c/build/CClient/CMakeFiles/CClientProducercpp.dir
+/home/yaosir/space/vesselmq-client4c/build/libs/jsoncpp-src-0.5.0/CMakeFiles/jsoncpp.dir
+/home/yaosir/space/vesselmq-client4c/build/CClient/CPushConsumer/CMakeFiles/CPushConsumerWapper.dir
+/home/yaosir/space/vesselmq-client4c/build/CClient/CPullConsumer/CMakeFiles/CPullConsumerWapper.dir
+/home/yaosir/space/vesselmq-client4c/build/example/simple/CMakeFiles/producer.dir
